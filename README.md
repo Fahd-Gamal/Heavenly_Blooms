@@ -109,9 +109,9 @@ This project requires a local PHP + MySQL environment such as **XAMPP** or **Lar
 
 ## Authors
 
-- **Mohamed Hossam** <Mohamed_Hossam0>
-- **Fahd Gamal** <Fahd-Gamal>
-- **Sandra Azab** <Sandra-2005>
-- **Habiba Ayman** <1habibaa1>
+- **Mohamed_Hossam0**
+- **Fahd-Gamal**
+- **Sandra-2005**
+- **1habibaa1**
 - **Ahmed Shaaban**
 
