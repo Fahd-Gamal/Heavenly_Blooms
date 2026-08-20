@@ -105,14 +105,8 @@ This project requires a local PHP + MySQL environment such as **XAMPP** or **Lar
    ```
    http://localhost/NTI_Graduation_Project/index.php
    ```
-
-### Default Admin Credentials
-
-```
-Email: admin@gmail.com
-Password: admin123
-```
-
 ---
 
 ## Authors
+
+
