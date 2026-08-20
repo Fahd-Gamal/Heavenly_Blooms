@@ -1,7 +1,7 @@
 # 🌸 Heavenly Blooms
 
 ## Project Overview
-**Heavenly Blooms** is a web application built as an **NTI Graduation Project**, an e-commerce platform dedicated to selling flowers and floral arrangements. The platform provides a smooth shopping experience for customers, along with a dedicated dashboard for admins to manage products, wallet recharge codes, and customer messages.
+**Heavenly Blooms** is a web application built as an **e-commerce platform** dedicated to selling flowers and floral arrangements. The platform provides a smooth shopping experience for customers, along with a dedicated dashboard for admins to manage products, wallet recharge codes, and customer messages.
 
 ---
 
@@ -108,9 +108,10 @@ This project requires a local PHP + MySQL environment such as **XAMPP** or **Lar
 ---
 
 ## Authors
-• **Mohamed Hossam**    Mohamed_Hossam0
-• **Fahd Gamal**        Fahd-Gamal
-• **Sandra Azab**       Sandra-2005
-• **Habiba Ayman**      1habibaa1
-• **Ahmed Shaaban**
+
+- **Mohamed Hossam**    Mohamed_Hossam0
+- **Fahd Gamal**        Fahd-Gamal
+- **Sandra Azab**       Sandra-2005
+- **Habiba Ayman**      1habibaa1
+- **Ahmed Shaaban**
 
